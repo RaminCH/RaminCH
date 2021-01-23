@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Golang + enriching my Python knowledge
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2021 Goals: Contribute valuable content to Open Source projects
-- ⚡ Fun fact: I like sports learn foreign Languages to draw and play guitar / piano
+- ⚡ Fun fact: I like Sports| learn foreign Languages| drawing and playing guitar / piano
 
 ### Just Some Languages and Tools in my Growing Portfolio:
 
