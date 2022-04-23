@@ -3,8 +3,8 @@
 ## I'm a Husband, Father and Developer!!
 
 - 🌱 I’m currently learning Golang + enriching my Python knowledge
-- 👯 I’m looking to collaborate with other programmers
-- 🥅 2021 Goals: Contribute valuable content to Open Source projects
+- 👯 Looking forward to collaborate with other programmers
+- 🥅 2022 Goals: Contribute valuable content to Open Source projects
 - ⚡ Fun fact: I like Sports| learn foreign Languages| drawing and playing guitar / piano
 
 ### Just Some Languages and Tools in my Growing Portfolio:
